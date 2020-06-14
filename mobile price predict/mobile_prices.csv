@@ -1,0 +1,862 @@
+,brand,Model_name,Highest_price,screen_size,Primary_cam,Front_cam,lowest_price,ram,rom
+0,Realme,Realme 2 Pro 128GB,5000,6.3,16,16,5000,8,128
+1,Apple,Apple iPhone X,45541,5.8,12,7,16000,3,64
+2,Apple,Apple iPhone XR,38499,6.1,12,7,17999,3,64
+3,Apple,Apple iPhone 7,25299,4.7,12,7,14800,2,32
+4,Apple,Apple iPhone 6s 64GB,30798,4.7,12,5,12500,2,64
+6,Apple,Apple iPhone 8,32999,4.7,12,7,18500,2,64
+7,Apple,Apple iPhone 7 128GB,30249,4.7,12,7,11700,2,128
+8,Apple,Apple iPhone XR 128GB,41249,6.1,12,7,14000,3,128
+10,Apple,Apple iPhone X 256GB,53624,5.8,12,7,13000,3,256
+11,Oppo,Oppo A31,9000,4.5,8,5,9000,1,8
+13,Apple,Apple iPhone 7 Plus 128GB,36599,5.5,12,7,8500,3,128
+14,Apple,Apple iPhone 6s 32GB,20182,4.7,12,5,3500,2,32
+15,Realme,Realme 1,6044,6,13,8,6044,3,32
+16,OnePlus,OnePlus 6T,20899,6.41,16,16,14000,6,128
+17,Vivo,Vivo V15 Pro,7999,6.59,16,25,7999,8,128
+18,Vivo,Vivo S1,6000,6.53,12,24,6000,4,64
+19,Apple,Apple iPhone XS Max 512GB,72600,6.5,12,7,6300,4,512
+20,Samsung,Samsung Galaxy S10 Plus 512GB,50545,6.4,12,12MP Primary Camera,35000,8,512
+22,Apple,Apple iPhone XS Max,59633,6.5,12,7,6500,4,64
+23,Apple,Apple iPhone 6s,17594,4.7,12,5,5500,2,16
+24,Apple,Apple iPhone 6 64GB,24744,4.7,8,1.2,10000,1,64
+25,Vivo,Vivo V11 Pro,11999,6.41,12,25,11999,6,64
+26,Apple,Apple iPhone XR 256GB,46749,6.1,12,7,17999,3,256
+27,Samsung,Samsung Galaxy S10,36795,6.1,12,8,15000,8,128
+28,OnePlus,OnePlus One,5000,5.5,13,5,5000,3,64
+29,OnePlus,OnePlus 6,19249,6.28,16,16,3700,6,64
+30,Apple,Apple iPhone 5,7974,4,8,1,3000,1,16
+31,Samsung,Samsung Galaxy S8,19244,5.8,12,8,7000,4,64
+32,Apple,Apple iPhone 6,17049,4.7,8,1.2,6999,1,16
+33,Apple,Apple iPhone 6s Plus 64GB,43999,5.5,12,5,4000,2,64
+34,Apple,Apple iPhone 5s,8249,4,8,1.2,1000,1,16
+36,Apple,Apple iPhone 6s Plus,21725,5.5,12,5,9500,2,16
+37,Apple,Apple iPhone 6 32GB,12649,4.7,8,1.2,12000,1,32
+38,Apple,Apple iPhone 8 256GB,37949,4.7,12,7,5500,2,256
+39,Samsung,Samsung Galaxy S7,14849,5.1,12,5,9000,4,32
+40,Apple,Apple iPhone 7 Plus,31900,5.5,12,7,12000,3,32
+41,Oppo,Oppo F11 Pro,6000,6.5,16,25,6000,6,64
+42,OnePlus,OnePlus 2 64 GB,4000,5.5,13,5,4000,4,64
+43,Apple,Apple iPhone 6 Plus,17049,5.5,8,1.2,2700,1,16
+44,Realme,Realme 2 Pro,5500,6.3,13,8,5500,6,64
+45,Samsung,Samsung Galaxy S9 plus,35695,6.2,12,8,6000,6,64
+46,Apple,Apple iPhone 6s 128GB,30217,4.7,12,5,3666,2,128
+47,Samsung,Samsung Galaxy C9 Pro,15619,6,16,16,9800,6,64
+48,Motorola,Motorola Moto G 2nd Gen,1400,5,8,2,1400,1,16
+49,Apple,Apple iPhone 8 Plus 256GB,43999,5.5,12,7,14999,3,256
+50,Samsung,Samsung Galaxy S8 Plus,22880,6.2,12,8,15000,4,64
+51,OnePlus,OnePlus 6 (256GB),24749,6.28,16,16,21000,8,256
+52,Apple,Apple iPhone XS 256GB,62345,5.8,12,7,45000,4,256
+53,Apple,Apple iPhone XS Max 256GB,67772,6.5,12,7,32000,4,256
+54,Xiaomi,Xiaomi F1,11549,6.18,12,20,9000,6,64
+55,Xiaomi,Xiaomi Redmi Note 7 Pro,9000,6.3,48,20,9000,4,64
+57,Samsung,Samsung Galaxy Note 4,16499,5.7,16,3.7,4000,3,32
+60,Apple,Apple iPhone 8 Plus,36299,5.5,12,7,14999,3,64
+61,Xiaomi,Xiaomi Redmi 5A,2749,5,13,5,1000,2,16
+62,Samsung,Samsung Galaxy J7 Pro,9953,5.5,13,13,8500,3,64
+63,Nokia,Nokia 7,6000,5.2,16,5,6000,4,64
+64,Apple,Apple iPhone SE (32GB),14024,4,12,1.2,5200,2,32
+65,Xiaomi,Xiaomi Redmi 4 (4GB/64GB),6599,5,13,5,6599,4,64
+66,Motorola,Motorola Moto Z2 Play,10724,5.5,12,5,10724,4,64
+67,OnePlus,OnePlus 5,8000,5.5,20,16,8000,6,64
+68,Oppo,Oppo A83 (4GB/64GB),7529,5.7,13,8,7529,4,64
+69,Vivo,Vivo V9,10766,6.3,16,24,9000,4,64
+70,Samsung,Samsung Galaxy A6 plus (4GB/64GB) (2018),13194,6,16,24,10500,4,64
+71,OnePlus,OnePlus 6T 256GB,25299,6.41,16,16,12000,8,256
+72,Google,Google Pixel 3 128GB,37345,5.5,12.2,8,14500,4,128
+73,Xiaomi,Xiaomi F1 128GB,13199,6.18,12,20,12000,6,128
+74,Motorola,Motorola Moto G6 Plus,6000,5.93,12,16,6000,3,32
+75,Samsung,Samsung Galaxy S9 256GB,36245,5.8,12,8,14000,4,256
+77,Apple,Apple iPhone 6 Plus 64GB,26894,5.5,8,1.2,10000,1,64
+78,Oppo,Oppo F3,7931,5.5,13,16,4500,4,64
+79,Vivo,Vivo V5s,7864,5.5,13,20,6500,4,64
+81,Motorola,Motorola Moto X4,7200,5.2,12,16,7200,3,32
+82,LG,LG G4 Dual Sim,7314,5.5,16,8,7314,3,32
+84,Xiaomi,Xiaomi Mi Note Pro,10000,5.7,13,4,10000,4,64
+86,Xiaomi,Xiaomi Mi5,10000,5.15,16,4,10000,3,32
+87,Samsung,Samsung Galaxy On Nxt 64GB,7095,5.5,13,8,7095,3,64
+88,Apple,Apple iPhone SE,10994,4,12,1.2,5500,2,16
+89,OnePlus,OnePlus 3T,15399,5.5,16,16,11000,6,64
+90,Vivo,Vivo NEX,24744,6.59,12,8,16400,8,128
+91,Samsung,Samsung Galaxy Note 9,37345,6.4,12,8,37345,6,128
+93,Xiaomi,Xiaomi Redmi Note 4 (4GB/64GB),6049,5.5,13,5,5990,4,64
+94,Samsung,Samsung Galaxy A8 Star,13039,6.3,16,24,13000,6,64
+95,OnePlus,OnePlus 6T 8GB RAM,23099,6.41,16,16,12000,8,128
+96,Samsung,Samsung Galaxy S9,31845,5.8,12,8,17500,4,64
+97,Apple,Apple iPhone 5c 16GB,16494,4,8,1.2,7000,1,16
+98,Xiaomi,Xiaomi Mi4,4394,5,13,8,3999,3,16
+99,HTC,HTC One M9,8999,5,20,4,8999,3,32
+100,Samsung,Samsung Galaxy Note N7000 16GB,10000,5.3,8,2,10000,1,16
+101,Motorola,Motorola Moto G5 Plus (4GB/32GB),6594,5.2,12,5,6594,4,32
+103,Oppo,Oppo R9 Plus 128GB,7600,6,16,16,7600,4,128
+105,Micromax,Micromax Canvas 5,4000,5.2,13,5,4000,3,16
+108,LG,LG Stylus 3,7144,5.7,13,8,7144,3,16
+109,Nokia,Lenovo Phab,6599,6.98,13,5,6599,2,16
+110,Honor,Honor 8,9899,5.2,12,8,9899,4,32
+111,Motorola,Motorola G5S Plus,6930,5.5,13,8,6000,4,64
+112,Samsung,Samsung Galaxy J7 Nxt,5197,5.5,13,5,5197,2,16
+113,Samsung,Samsung Galaxy S8 Plus (6GB/128GB),34595,6.2,12,8,12000,6,128
+114,OnePlus,OnePlus 5T (8GB/128GB),20899,6.01,20,16,5000,8,128
+115,Samsung,Samsung Galaxy A8 plus (2018),17044,6,16,16,17000,6,64
+116,Samsung,Samsung Galaxy J7 Max,8195,5.7,13,13,7500,4,32
+117,Nokia,Nokia 2,3436,5,8,5,3436,1,8
+118,Google,Google Pixel 2 XL 128GB,45100,6,12.2,8,5000,4,128
+120,Nokia,Nokia 3,4026,5,8,8,2500,2,16
+121,Panasonic,Panasonic Eluga Ray X,4949,5.5,13,5,4949,3,32
+122,Xiaomi,Xiaomi Redmi Note 4 (3GB/32GB),4949,5.5,13,5,2500,3,32
+123,InFocus,InFocus Vision 3 Pro,6049,5.7,13,13,6049,4,64
+124,Xiaomi,Xiaomi Redmi Note 5 Pro,8249,5.99,12,20,8249,4,64
+125,Nokia,Lenovo Vibe K5,5000,5,13,5,5000,2,16
+126,Apple,Apple iPhone 7 Plus 256GB,38989,5.5,12,7,13000,3,256
+127,Samsung,Samsung Galaxy Note 5 64GB,21999,5.7,16,5,13000,4,64
+128,Micromax,Micromax Canvas Xpress 2 E313,6710,5,13,2,1800,1,8
+129,LG,LG V20,16494,5.7,16,5,7500,4,64
+130,Samsung,Samsung Galaxy J5 Prime,5499,5,13,5,4000,2,16
+131,Xiaomi,Xiaomi Redmi Pro,23000,5.5,13,5,23000,3,32
+133,Xiaomi,Xiaomi Redmi Y2 (4GB/64GB),12000,5.99,12,16,12000,4,64
+134,Motorola,Motorola Moto G6 (4GB/64GB),8706,5.7,12,16,8706,4,64
+135,Samsung,Samsung Galaxy J7 Duo,7694,5.5,13,8,7000,4,32
+136,Xiaomi,Xiaomi Redmi Y2,5499,5.99,12,16,5000,3,32
+137,Samsung,Samsung Galaxy S9 128GB,25000,5.8,12,8,25000,4,128
+138,Nokia,Nokia 6.1 (4GB/64GB) (2018),9721,5.5,16,8,4000,4,64
+139,Xiaomi,Xiaomi Redmi Note 7,7149,6.3,12,13,6500,3,32
+141,Xiaomi,Xiaomi Redmi Note 6 Pro,6520,6.26,12,20,6520,4,64
+142,Samsung,Samsung Galaxy S10 512GB,45100,6.1,12,12MP Primary Camera,45100,8,512
+143,Oppo,Oppo A5,10600,6.2,13,8,10600,4,64
+144,Google,Google Pixel 3 XL 128GB,50600,6.3,12.2,8,22600,4,128
+145,Realme,Realme 2 Pro 6GB RAM,6500,6.3,16,16,6500,6,64
+146,Xiaomi,Xiaomi Redmi Note 5 (4GB/64GB),6599,5.99,12,5,6599,4,64
+147,Oppo,Oppo F7,9907,6.23,16,25,9907,4,64
+148,Honor,Honor 9 Lite (4GB/64GB),8249,5.65,13,13,6500,4,64
+154,Huawei,Huawei Honor 7i,11500,5.2,13,13,11500,2,16
+155,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+156,Honor,Honor View 10,11000,5.99,20,13,11000,6,128
+157,Xiaomi,Xiaomi Redmi 5,3400,5.7,12,5,3400,2,16
+158,General,General GM 5,3300,5,13,5,3300,2,16
+159,Motorola,Motorola Moto C Plus,3744,5,8,2,3744,2,16
+160,OnePlus,OnePlus 5 (8GB/128GB),20899,5.5,20,16,20899,8,128
+161,Google,Google Pixel XL 2,18000,5.5,12.3,8,18000,4,64
+162,Nokia,Lenovo K3 Note,4509,5.5,13,5,4000,2,16
+163,Samsung,Samsung Galaxy A5,6545,5,13,5,6545,2,16
+165,HTC,HTC Desire 326G,4702,4.5,8,2,4702,1,8
+166,Apple,Apple iPhone 5c,12209,4,8,1.2,2000,1,8
+167,OnePlus,OnePlus 3,15399,5.5,16,8,12000,6,64
+168,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+169,Samsung,Samsung Galaxy S6 Edge Plus,24952,5.7,16,5,20000,4,32
+170,Xiaomi,Xiaomi Redmi 2,2700,4.7,8,2,2700,1,8
+174,Nokia,Lenovo Phab 2,5499,6.4,13,5,5200,3,32
+175,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+178,Oppo,Oppo A71 (2018),5434,5.2,13,5,5434,3,16
+180,Oppo,Oppo A37,4653,5,8,5,4000,2,16
+181,Vivo,Vivo Y21L 4G,3899,4.5,5,2,3000,1,16
+182,Apple,Apple iPhone 7 256GB,31756,4.7,12,7,27500,2,256
+184,LG,LG G7 Plus ThinQ,21994,6.1,16,8,13000,6,128
+185,Samsung,Samsung Galaxy J6,7694,5.6,13,8,7694,3,32
+186,Samsung,Samsung Galaxy J6 (4GB/64GB),9069,5.6,13,8,9000,4,64
+187,Samsung,Samsung Galaxy J8 2018,8189,6,16,16,8189,4,64
+188,Oppo,Oppo F9,16000,6.3,16,25,16000,4,64
+189,Xiaomi,Xiaomi Mi A2 (6GB/128GB),14500,5.99,12,20,14500,6,128
+190,Samsung,Samsung Galaxy Note 9 (8GB/512GB),46695,6.4,12,8,40000,8,512
+191,Vivo,Vivo Y55L,6049,5.2,8,5,4999,2,16
+192,Gionee,Gionee P7 Max,3931,5.5,13,5,3931,3,32
+193,Vivo,Vivo Y83 Pro,7694,6.22,13,8,7694,4,64
+194,Oppo,Oppo F9 Pro,10945,6.3,16,25,10945,6,64
+195,Samsung,Samsung Galaxy A9 2018,17044,6.3,24,24,17044,6,128
+196,Vivo,Vivo V9 Pro 4GB RAM,7776,6.3,13,16,7500,4,64
+197,Samsung,Samsung Galaxy A7 2018 128GB,11794,6,24,24,11794,6,128
+198,Samsung,Samsung Galaxy S10 Plus 1TB,64845,6.4,12,12MP Primary Camera,17999,12,1
+199,Xiaomi,Xiaomi Mi 8 Pro,14500,6.21,12,20,14500,6,128
+200,Oppo,Oppo A7,8000,6.2,13,16,8000,3,32
+201,Google,Google Pixel 3 XL,45650,6.3,12.2,8,33000,4,64
+202,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
+203,Samsung,Samsung Galaxy S9+ (6GB/256GB),41800,6.2,12,8,27000,6,256
+204,OnePlus,OnePlus 6 (128GB),21999,6.28,16,16,21999,8,128
+205,Samsung,Samsung Galaxy S10 Plus 512GB,50545,6.4,12,12MP Primary Camera,35000,8,512
+206,Google,Google Pixel 3 XL 128GB,50600,6.3,12.2,8,22600,4,128
+207,Samsung,Samsung Galaxy J7 Nxt,5197,5.5,13,5,5197,2,16
+208,Apple,Apple iPhone X 256GB,53624,5.8,12,7,13000,3,256
+209,Oppo,Oppo A71 (2018),5434,5.2,13,5,5434,3,16
+210,Samsung,Samsung Galaxy J5 Prime,5499,5,13,5,4000,2,16
+211,Xiaomi,Xiaomi Redmi Y2,5499,5.99,12,16,5000,3,32
+212,Nokia,Lenovo Phab 2,5499,6.4,13,5,5200,3,32
+214,Apple,Apple iPhone XS Max,59633,6.5,12,7,6500,4,64
+215,Realme,Realme 1,6044,6,13,8,6044,3,32
+216,InFocus,InFocus Vision 3 Pro,6049,5.7,13,13,6049,4,64
+219,Xiaomi,Xiaomi Redmi Note 4 (4GB/64GB),6049,5.5,13,5,5990,4,64
+220,Vivo,Vivo Y55L,6049,5.2,8,5,4999,2,16
+222,Apple,Apple iPhone XS 256GB,62345,5.8,12,7,45000,4,256
+223,Samsung,Samsung Galaxy S10 Plus 1TB,64845,6.4,12,12MP Primary Camera,17999,12,1
+224,Xiaomi,Xiaomi Redmi Note 6 Pro,6520,6.26,12,20,6520,4,64
+225,Samsung,Samsung Galaxy A5,6545,5,13,5,6545,2,16
+226,Motorola,Motorola Moto G5 Plus (4GB/32GB),6594,5.2,12,5,6594,4,32
+227,Nokia,Lenovo Phab,6599,6.98,13,5,6599,2,16
+228,Xiaomi,Xiaomi Redmi 4 (4GB/64GB),6599,5,13,5,6599,4,64
+229,Xiaomi,Xiaomi Redmi Note 5 (4GB/64GB),6599,5.99,12,5,6599,4,64
+230,Micromax,Micromax Canvas Xpress 2 E313,6710,5,13,2,1800,1,8
+231,Apple,Apple iPhone XS Max 256GB,67772,6.5,12,7,32000,4,256
+232,Motorola,Motorola G5S Plus,6930,5.5,13,8,6000,4,64
+233,Samsung,Samsung Galaxy On Nxt 64GB,7095,5.5,13,8,7095,3,64
+235,LG,LG Stylus 3,7144,5.7,13,8,7144,3,16
+236,Xiaomi,Xiaomi Redmi Note 7,7149,6.3,12,13,6500,3,32
+237,Apple,Apple iPhone XS Max 512GB,72600,6.5,12,7,6300,4,512
+238,LG,LG G4 Dual Sim,7314,5.5,16,8,7314,3,32
+239,Oppo,Oppo A83 (4GB/64GB),7529,5.7,13,8,7529,4,64
+240,Samsung,Samsung Galaxy J7 Duo,7694,5.5,13,8,7000,4,32
+241,Samsung,Samsung Galaxy J6,7694,5.6,13,8,7694,3,32
+242,Vivo,Vivo Y83 Pro,7694,6.22,13,8,7694,4,64
+244,Vivo,Vivo V9 Pro 4GB RAM,7776,6.3,13,16,7500,4,64
+245,Vivo,Vivo V5s,7864,5.5,13,20,6500,4,64
+246,Oppo,Oppo F3,7931,5.5,13,16,4500,4,64
+247,Apple,Apple iPhone 5,7974,4,8,1,3000,1,16
+248,Samsung,Samsung Galaxy J8 2018,8189,6,16,16,8189,4,64
+249,Samsung,Samsung Galaxy J7 Max,8195,5.7,13,13,7500,4,32
+250,Xiaomi,Xiaomi Redmi Note 5 Pro,8249,5.99,12,20,8249,4,64
+251,Honor,Honor 9 Lite (4GB/64GB),8249,5.65,13,13,6500,4,64
+252,Apple,Apple iPhone 5s,8249,4,8,1.2,1000,1,16
+254,Motorola,Motorola Moto G6 (4GB/64GB),8706,5.7,12,16,8706,4,64
+255,Samsung,Samsung Galaxy J6 (4GB/64GB),9069,5.6,13,8,9000,4,64
+256,Nokia,Nokia 6.1 (4GB/64GB) (2018),9721,5.5,16,8,4000,4,64
+257,Honor,Honor 8,9899,5.2,12,8,9899,4,32
+258,Oppo,Oppo F7,9907,6.23,16,25,9907,4,64
+259,Samsung,Samsung Galaxy J7 Pro,9953,5.5,13,13,8500,3,64
+260,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+261,Motorola,Motorola Moto Z2 Play,10724,5.5,12,5,10724,4,64
+262,Vivo,Vivo V9,10766,6.3,16,24,9000,4,64
+263,Oppo,Oppo F9 Pro,10945,6.3,16,25,10945,6,64
+264,Apple,Apple iPhone SE,10994,4,12,1.2,5500,2,16
+265,Xiaomi,Xiaomi F1,11549,6.18,12,20,9000,6,64
+266,Samsung,Samsung Galaxy A7 2018 128GB,11794,6,24,24,11794,6,128
+267,Apple,Apple iPhone 5c,12209,4,8,1.2,2000,1,8
+268,Apple,Apple iPhone 6 32GB,12649,4.7,8,1.2,12000,1,32
+269,Samsung,Samsung Galaxy A8 Star,13039,6.3,16,24,13000,6,64
+270,Samsung,Samsung Galaxy A6 plus (4GB/64GB) (2018),13194,6,16,24,10500,4,64
+271,Xiaomi,Xiaomi F1 128GB,13199,6.18,12,20,12000,6,128
+272,Apple,Apple iPhone SE (32GB),14024,4,12,1.2,5200,2,32
+273,Samsung,Samsung Galaxy S7,14849,5.1,12,5,9000,4,32
+275,OnePlus,OnePlus 3,15399,5.5,16,8,12000,6,64
+276,OnePlus,OnePlus 3T,15399,5.5,16,16,11000,6,64
+277,Samsung,Samsung Galaxy C9 Pro,15619,6,16,16,9800,6,64
+278,Apple,Apple iPhone 5c 16GB,16494,4,8,1.2,7000,1,16
+279,LG,LG V20,16494,5.7,16,5,7500,4,64
+280,Samsung,Samsung Galaxy Note 4,16499,5.7,16,3.7,4000,3,32
+281,Samsung,Samsung Galaxy A8 plus (2018),17044,6,16,16,17000,6,64
+282,Samsung,Samsung Galaxy A9 2018,17044,6.3,24,24,17044,6,128
+283,Apple,Apple iPhone 6,17049,4.7,8,1.2,6999,1,16
+284,Apple,Apple iPhone 6 Plus,17049,5.5,8,1.2,2700,1,16
+285,Apple,Apple iPhone 6s,17594,4.7,12,5,5500,2,16
+286,Samsung,Samsung Galaxy S8,19244,5.8,12,8,7000,4,64
+287,OnePlus,OnePlus 6,19249,6.28,16,16,3700,6,64
+288,Apple,Apple iPhone 6s 32GB,20182,4.7,12,5,3500,2,32
+290,OnePlus,OnePlus 5T (8GB/128GB),20899,6.01,20,16,5000,8,128
+291,OnePlus,OnePlus 6T,20899,6.41,16,16,14000,6,128
+292,OnePlus,OnePlus 5 (8GB/128GB),20899,5.5,20,16,20899,8,128
+294,Apple,Apple iPhone 6s Plus,21725,5.5,12,5,9500,2,16
+295,LG,LG G7 Plus ThinQ,21994,6.1,16,8,13000,6,128
+296,Samsung,Samsung Galaxy Note 5 64GB,21999,5.7,16,5,13000,4,64
+297,OnePlus,OnePlus 6 (128GB),21999,6.28,16,16,21999,8,128
+298,Samsung,Samsung Galaxy S8 Plus,22880,6.2,12,8,15000,4,64
+299,OnePlus,OnePlus 6T 8GB RAM,23099,6.41,16,16,12000,8,128
+302,Apple,Apple iPhone 6 64GB,24744,4.7,8,1.2,10000,1,64
+303,Vivo,Vivo NEX,24744,6.59,12,8,16400,8,128
+304,OnePlus,OnePlus 6 (256GB),24749,6.28,16,16,21000,8,256
+305,Samsung,Samsung Galaxy S6 Edge Plus,24952,5.7,16,5,20000,4,32
+306,OnePlus,OnePlus 6T 256GB,25299,6.41,16,16,12000,8,256
+307,Apple,Apple iPhone 7,25299,4.7,12,7,14800,2,32
+308,Apple,Apple iPhone 6 Plus 64GB,26894,5.5,8,1.2,10000,1,64
+309,Xiaomi,Xiaomi Redmi 5A,2749,5,13,5,1000,2,16
+312,Apple,Apple iPhone 6s 128GB,30217,4.7,12,5,3666,2,128
+313,Apple,Apple iPhone 7 128GB,30249,4.7,12,7,11700,2,128
+314,Apple,Apple iPhone 6s 64GB,30798,4.7,12,5,12500,2,64
+315,Apple,Apple iPhone 7 256GB,31756,4.7,12,7,27500,2,256
+316,Samsung,Samsung Galaxy S9,31845,5.8,12,8,17500,4,64
+317,Apple,Apple iPhone 7 Plus,31900,5.5,12,7,12000,3,32
+318,Apple,Apple iPhone 8,32999,4.7,12,7,18500,2,64
+319,Nokia,Nokia 2,3436,5,8,5,3436,1,8
+320,Samsung,Samsung Galaxy S8 Plus (6GB/128GB),34595,6.2,12,8,12000,6,128
+321,Samsung,Samsung Galaxy S9 plus,35695,6.2,12,8,6000,6,64
+322,Samsung,Samsung Galaxy S9 256GB,36245,5.8,12,8,14000,4,256
+323,Apple,Apple iPhone 8 Plus,36299,5.5,12,7,14999,3,64
+324,Apple,Apple iPhone 7 Plus 128GB,36599,5.5,12,7,8500,3,128
+325,Samsung,Samsung Galaxy S10,36795,6.1,12,8,15000,8,128
+326,Google,Google Pixel 3 128GB,37345,5.5,12.2,8,14500,4,128
+327,Samsung,Samsung Galaxy Note 9,37345,6.4,12,8,37345,6,128
+328,Motorola,Motorola Moto C Plus,3744,5,8,2,3744,2,16
+329,Apple,Apple iPhone 8 256GB,37949,4.7,12,7,5500,2,256
+330,Apple,Apple iPhone XR,38499,6.1,12,7,17999,3,64
+331,Apple,Apple iPhone 7 Plus 256GB,38989,5.5,12,7,13000,3,256
+332,Vivo,Vivo Y21L 4G,3899,4.5,5,2,3000,1,16
+333,Gionee,Gionee P7 Max,3931,5.5,13,5,3931,3,32
+334,Nokia,Nokia 3,4026,5,8,8,2500,2,16
+335,Apple,Apple iPhone XR 128GB,41249,6.1,12,7,14000,3,128
+336,Samsung,Samsung Galaxy S9+ (6GB/256GB),41800,6.2,12,8,27000,6,256
+337,Xiaomi,Xiaomi Mi4,4394,5,13,8,3999,3,16
+338,Apple,Apple iPhone 6s Plus 64GB,43999,5.5,12,5,4000,2,64
+339,Apple,Apple iPhone 8 Plus 256GB,43999,5.5,12,7,14999,3,256
+340,Nokia,Lenovo K3 Note,4509,5.5,13,5,4000,2,16
+341,Google,Google Pixel 2 XL 128GB,45100,6,12.2,8,5000,4,128
+342,Samsung,Samsung Galaxy S10 512GB,45100,6.1,12,12MP Primary Camera,45100,8,512
+343,Apple,Apple iPhone X,45541,5.8,12,7,16000,3,64
+344,Google,Google Pixel 3 XL,45650,6.3,12.2,8,33000,4,64
+345,Oppo,Oppo A37,4653,5,8,5,4000,2,16
+346,Samsung,Samsung Galaxy Note 9 (8GB/512GB),46695,6.4,12,8,40000,8,512
+347,Apple,Apple iPhone XR 256GB,46749,6.1,12,7,17999,3,256
+348,HTC,HTC Desire 326G,4702,4.5,8,2,4702,1,8
+349,Panasonic,Panasonic Eluga Ray X,4949,5.5,13,5,4949,3,32
+350,Xiaomi,Xiaomi Redmi Note 4 (3GB/32GB),4949,5.5,13,5,2500,3,32
+352,HTC,HTC One M9,8999,5,20,4,8999,3,32
+353,Samsung,Samsung Galaxy Note N7000 16GB,10000,5.3,8,2,10000,1,16
+357,Oppo,Oppo R9 Plus 128GB,7600,6,16,16,7600,4,128
+359,OnePlus,OnePlus 2 64 GB,4000,5.5,13,5,4000,4,64
+361,Nokia,Nokia 7,6000,5.2,16,5,6000,4,64
+363,OnePlus,OnePlus 5,8000,5.5,20,16,8000,6,64
+364,Nokia,Lenovo Vibe K5,5000,5,13,5,5000,2,16
+365,Xiaomi,Xiaomi Redmi Pro,23000,5.5,13,5,23000,3,32
+367,Xiaomi,Xiaomi Redmi Y2 (4GB/64GB),12000,5.99,12,16,12000,4,64
+368,Samsung,Samsung Galaxy S9 128GB,25000,5.8,12,8,25000,4,128
+371,Oppo,Oppo A5,10600,6.2,13,8,10600,4,64
+372,Realme,Realme 2 Pro 6GB RAM,6500,6.3,16,16,6500,6,64
+373,Vivo,Vivo V15 Pro,7999,6.59,16,25,7999,8,128
+374,Realme,Realme 2 Pro,5500,6.3,13,8,5500,6,64
+375,Motorola,Motorola Moto G6 Plus,6000,5.93,12,16,6000,3,32
+377,Oppo,Oppo A31,9000,4.5,8,5,9000,1,8
+379,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+380,OnePlus,OnePlus One,5000,5.5,13,5,5000,3,64
+381,Xiaomi,Xiaomi Redmi 2,2700,4.7,8,2,2700,1,8
+383,Xiaomi,Xiaomi Mi Note Pro,10000,5.7,13,4,10000,4,64
+385,Xiaomi,Xiaomi Redmi 4A,3699,5,13,5,3699,2,16
+386,Motorola,Motorola Moto G 2nd Gen,1400,5,8,2,1400,1,16
+389,Huawei,Huawei Honor 7i,11500,5.2,13,13,11500,2,16
+390,Honor,Honor View 10,11000,5.99,20,13,11000,6,128
+391,Xiaomi,Xiaomi Redmi 5,3400,5.7,12,5,3400,2,16
+392,General,General GM 5,3300,5,13,5,3300,2,16
+394,Motorola,Motorola Moto X4,7200,5.2,12,16,7200,3,32
+395,Google,Google Pixel XL 2,18000,5.5,12.3,8,18000,4,64
+396,Xiaomi,Xiaomi Mi5,10000,5.15,16,4,10000,3,32
+398,Vivo,Vivo V11 Pro,11999,6.41,12,25,11999,6,64
+399,Oppo,Oppo F9,16000,6.3,16,25,16000,4,64
+400,Xiaomi,Xiaomi Mi A2 (6GB/128GB),14500,5.99,12,20,14500,6,128
+402,Vivo,Vivo S1,6000,6.53,12,24,6000,4,64
+404,Xiaomi,Xiaomi Mi 8 Pro,14500,6.21,12,20,14500,6,128
+405,Xiaomi,Xiaomi Mi 8 Pro,14500,6.21,12,20,14500,6,128
+406,Oppo,Oppo F11 Pro,6000,6.5,16,25,6000,6,64
+407,Oppo,Oppo A7,8000,6.2,13,16,8000,3,32
+408,Realme,Realme 2 Pro 128GB,5000,6.3,16,16,5000,8,128
+409,Xiaomi,Xiaomi Redmi Note 7 Pro,9000,6.3,48,20,9000,4,64
+410,Panasonic,Panasonic Eluga Ray X,4949,5.5,13,5,4949,3,32
+411,Xiaomi,Xiaomi Redmi Note 4 (3GB/32GB),4949,5.5,13,5,2500,3,32
+412,HTC,HTC Desire 326G,4702,4.5,8,2,4702,1,8
+413,Apple,Apple iPhone XR 256GB,46749,6.1,12,7,17999,3,256
+414,Samsung,Samsung Galaxy Note 9 (8GB/512GB),46695,6.4,12,8,40000,8,512
+415,Oppo,Oppo A37,4653,5,8,5,4000,2,16
+416,Google,Google Pixel 3 XL,45650,6.3,12.2,8,33000,4,64
+417,Apple,Apple iPhone X,45541,5.8,12,7,16000,3,64
+418,Google,Google Pixel 2 XL 128GB,45100,6,12.2,8,5000,4,128
+419,Samsung,Samsung Galaxy S10 512GB,45100,6.1,12,12MP Primary Camera,45100,8,512
+420,Nokia,Lenovo K3 Note,4509,5.5,13,5,4000,2,16
+421,Apple,Apple iPhone 6s Plus 64GB,43999,5.5,12,5,4000,2,64
+422,Apple,Apple iPhone 8 Plus 256GB,43999,5.5,12,7,14999,3,256
+423,Xiaomi,Xiaomi Mi4,4394,5,13,8,3999,3,16
+424,Samsung,Samsung Galaxy S9+ (6GB/256GB),41800,6.2,12,8,27000,6,256
+425,Apple,Apple iPhone XR 128GB,41249,6.1,12,7,14000,3,128
+426,Nokia,Nokia 3,4026,5,8,8,2500,2,16
+427,Gionee,Gionee P7 Max,3931,5.5,13,5,3931,3,32
+428,Vivo,Vivo Y21L 4G,3899,4.5,5,2,3000,1,16
+429,Apple,Apple iPhone 7 Plus 256GB,38989,5.5,12,7,13000,3,256
+430,Apple,Apple iPhone XR,38499,6.1,12,7,17999,3,64
+431,Apple,Apple iPhone 8 256GB,37949,4.7,12,7,5500,2,256
+432,Motorola,Motorola Moto C Plus,3744,5,8,2,3744,2,16
+433,Google,Google Pixel 3 128GB,37345,5.5,12.2,8,14500,4,128
+434,Samsung,Samsung Galaxy Note 9,37345,6.4,12,8,37345,6,128
+435,Samsung,Samsung Galaxy S10,36795,6.1,12,8,15000,8,128
+436,Apple,Apple iPhone 7 Plus 128GB,36599,5.5,12,7,8500,3,128
+437,Apple,Apple iPhone 8 Plus,36299,5.5,12,7,14999,3,64
+438,Samsung,Samsung Galaxy S9 256GB,36245,5.8,12,8,14000,4,256
+439,Samsung,Samsung Galaxy S9 plus,35695,6.2,12,8,6000,6,64
+440,Samsung,Samsung Galaxy S8 Plus (6GB/128GB),34595,6.2,12,8,12000,6,128
+441,Nokia,Nokia 2,3436,5,8,5,3436,1,8
+442,Apple,Apple iPhone 8,32999,4.7,12,7,18500,2,64
+443,Apple,Apple iPhone 7 Plus,31900,5.5,12,7,12000,3,32
+444,Samsung,Samsung Galaxy S9,31845,5.8,12,8,17500,4,64
+445,Apple,Apple iPhone 7 256GB,31756,4.7,12,7,27500,2,256
+446,Apple,Apple iPhone 6s 64GB,30798,4.7,12,5,12500,2,64
+447,Apple,Apple iPhone 7 128GB,30249,4.7,12,7,11700,2,128
+448,Apple,Apple iPhone 6s 128GB,30217,4.7,12,5,3666,2,128
+451,Xiaomi,Xiaomi Redmi 5A,2749,5,13,5,1000,2,16
+452,Apple,Apple iPhone 6 Plus 64GB,26894,5.5,8,1.2,10000,1,64
+453,OnePlus,OnePlus 6T 256GB,25299,6.41,16,16,12000,8,256
+454,Apple,Apple iPhone 7,25299,4.7,12,7,14800,2,32
+455,Samsung,Samsung Galaxy S6 Edge Plus,24952,5.7,16,5,20000,4,32
+456,OnePlus,OnePlus 6 (256GB),24749,6.28,16,16,21000,8,256
+457,Apple,Apple iPhone 6 64GB,24744,4.7,8,1.2,10000,1,64
+458,Vivo,Vivo NEX,24744,6.59,12,8,16400,8,128
+461,OnePlus,OnePlus 6T 8GB RAM,23099,6.41,16,16,12000,8,128
+462,Samsung,Samsung Galaxy S8 Plus,22880,6.2,12,8,15000,4,64
+463,Samsung,Samsung Galaxy Note 5 64GB,21999,5.7,16,5,13000,4,64
+464,OnePlus,OnePlus 6 (128GB),21999,6.28,16,16,21999,8,128
+465,LG,LG G7 Plus ThinQ,21994,6.1,16,8,13000,6,128
+466,Apple,Apple iPhone 6s Plus,21725,5.5,12,5,9500,2,16
+468,OnePlus,OnePlus 5T (8GB/128GB),20899,6.01,20,16,5000,8,128
+469,OnePlus,OnePlus 6T,20899,6.41,16,16,14000,6,128
+470,OnePlus,OnePlus 5 (8GB/128GB),20899,5.5,20,16,20899,8,128
+472,Apple,Apple iPhone 6s 32GB,20182,4.7,12,5,3500,2,32
+473,OnePlus,OnePlus 6,19249,6.28,16,16,3700,6,64
+474,Samsung,Samsung Galaxy S8,19244,5.8,12,8,7000,4,64
+475,Apple,Apple iPhone 6s,17594,4.7,12,5,5500,2,16
+476,Apple,Apple iPhone 6,17049,4.7,8,1.2,6999,1,16
+477,Apple,Apple iPhone 6 Plus,17049,5.5,8,1.2,2700,1,16
+478,Samsung,Samsung Galaxy A8 plus (2018),17044,6,16,16,17000,6,64
+479,Samsung,Samsung Galaxy A9 2018,17044,6.3,24,24,17044,6,128
+480,Samsung,Samsung Galaxy Note 4,16499,5.7,16,3.7,4000,3,32
+481,Apple,Apple iPhone 5c 16GB,16494,4,8,1.2,7000,1,16
+482,LG,LG V20,16494,5.7,16,5,7500,4,64
+483,Samsung,Samsung Galaxy C9 Pro,15619,6,16,16,9800,6,64
+484,OnePlus,OnePlus 3,15399,5.5,16,8,12000,6,64
+485,OnePlus,OnePlus 3T,15399,5.5,16,16,11000,6,64
+487,Samsung,Samsung Galaxy S7,14849,5.1,12,5,9000,4,32
+488,Apple,Apple iPhone SE (32GB),14024,4,12,1.2,5200,2,32
+489,Xiaomi,Xiaomi F1 128GB,13199,6.18,12,20,12000,6,128
+490,Samsung,Samsung Galaxy A6 plus (4GB/64GB) (2018),13194,6,16,24,10500,4,64
+491,Samsung,Samsung Galaxy A8 Star,13039,6.3,16,24,13000,6,64
+492,Apple,Apple iPhone 6 32GB,12649,4.7,8,1.2,12000,1,32
+493,Apple,Apple iPhone 5c,12209,4,8,1.2,2000,1,8
+494,Samsung,Samsung Galaxy A7 2018 128GB,11794,6,24,24,11794,6,128
+495,Xiaomi,Xiaomi F1,11549,6.18,12,20,9000,6,64
+496,Apple,Apple iPhone SE,10994,4,12,1.2,5500,2,16
+497,Oppo,Oppo F9 Pro,10945,6.3,16,25,10945,6,64
+498,Vivo,Vivo V9,10766,6.3,16,24,9000,4,64
+499,Motorola,Motorola Moto Z2 Play,10724,5.5,12,5,10724,4,64
+500,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+501,Samsung,Samsung Galaxy J7 Pro,9953,5.5,13,13,8500,3,64
+502,Oppo,Oppo F7,9907,6.23,16,25,9907,4,64
+503,Honor,Honor 8,9899,5.2,12,8,9899,4,32
+504,Nokia,Nokia 6.1 (4GB/64GB) (2018),9721,5.5,16,8,4000,4,64
+505,Samsung,Samsung Galaxy J6 (4GB/64GB),9069,5.6,13,8,9000,4,64
+506,Motorola,Motorola Moto G6 (4GB/64GB),8706,5.7,12,16,8706,4,64
+508,Xiaomi,Xiaomi Redmi Note 5 Pro,8249,5.99,12,20,8249,4,64
+509,Honor,Honor 9 Lite (4GB/64GB),8249,5.65,13,13,6500,4,64
+510,Apple,Apple iPhone 5s,8249,4,8,1.2,1000,1,16
+511,Samsung,Samsung Galaxy J7 Max,8195,5.7,13,13,7500,4,32
+512,Samsung,Samsung Galaxy J8 2018,8189,6,16,16,8189,4,64
+513,Apple,Apple iPhone 5,7974,4,8,1,3000,1,16
+514,Oppo,Oppo F3,7931,5.5,13,16,4500,4,64
+515,Vivo,Vivo V5s,7864,5.5,13,20,6500,4,64
+516,Vivo,Vivo V9 Pro 4GB RAM,7776,6.3,13,16,7500,4,64
+518,Samsung,Samsung Galaxy J7 Duo,7694,5.5,13,8,7000,4,32
+519,Samsung,Samsung Galaxy J6,7694,5.6,13,8,7694,3,32
+520,Vivo,Vivo Y83 Pro,7694,6.22,13,8,7694,4,64
+521,Oppo,Oppo A83 (4GB/64GB),7529,5.7,13,8,7529,4,64
+522,LG,LG G4 Dual Sim,7314,5.5,16,8,7314,3,32
+523,Apple,Apple iPhone XS Max 512GB,72600,6.5,12,7,6300,4,512
+524,Xiaomi,Xiaomi Redmi Note 7,7149,6.3,12,13,6500,3,32
+525,LG,LG Stylus 3,7144,5.7,13,8,7144,3,16
+527,Samsung,Samsung Galaxy On Nxt 64GB,7095,5.5,13,8,7095,3,64
+528,Motorola,Motorola G5S Plus,6930,5.5,13,8,6000,4,64
+529,Apple,Apple iPhone XS Max 256GB,67772,6.5,12,7,32000,4,256
+530,Micromax,Micromax Canvas Xpress 2 E313,6710,5,13,2,1800,1,8
+531,Nokia,Lenovo Phab,6599,6.98,13,5,6599,2,16
+532,Xiaomi,Xiaomi Redmi 4 (4GB/64GB),6599,5,13,5,6599,4,64
+533,Xiaomi,Xiaomi Redmi Note 5 (4GB/64GB),6599,5.99,12,5,6599,4,64
+534,Motorola,Motorola Moto G5 Plus (4GB/32GB),6594,5.2,12,5,6594,4,32
+535,Samsung,Samsung Galaxy A5,6545,5,13,5,6545,2,16
+536,Xiaomi,Xiaomi Redmi Note 6 Pro,6520,6.26,12,20,6520,4,64
+537,Samsung,Samsung Galaxy S10 Plus 1TB,64845,6.4,12,12MP Primary Camera,17999,12,1
+538,Apple,Apple iPhone XS 256GB,62345,5.8,12,7,45000,4,256
+540,InFocus,InFocus Vision 3 Pro,6049,5.7,13,13,6049,4,64
+543,Xiaomi,Xiaomi Redmi Note 4 (4GB/64GB),6049,5.5,13,5,5990,4,64
+544,Vivo,Vivo Y55L,6049,5.2,8,5,4999,2,16
+545,Realme,Realme 1,6044,6,13,8,6044,3,32
+546,Apple,Apple iPhone XS Max,59633,6.5,12,7,6500,4,64
+548,Samsung,Samsung Galaxy J5 Prime,5499,5,13,5,4000,2,16
+549,Xiaomi,Xiaomi Redmi Y2,5499,5.99,12,16,5000,3,32
+550,Nokia,Lenovo Phab 2,5499,6.4,13,5,5200,3,32
+551,Oppo,Oppo A71 (2018),5434,5.2,13,5,5434,3,16
+552,Apple,Apple iPhone X 256GB,53624,5.8,12,7,13000,3,256
+553,Samsung,Samsung Galaxy J7 Nxt,5197,5.5,13,5,5197,2,16
+554,Google,Google Pixel 3 XL 128GB,50600,6.3,12.2,8,22600,4,128
+555,Samsung,Samsung Galaxy S10 Plus 512GB,50545,6.4,12,12MP Primary Camera,35000,8,512
+557,HTC,HTC One M9,8999,5,20,4,8999,3,32
+558,Samsung,Samsung Galaxy Note N7000 16GB,10000,5.3,8,2,10000,1,16
+562,Oppo,Oppo R9 Plus 128GB,7600,6,16,16,7600,4,128
+564,OnePlus,OnePlus 2 64 GB,4000,5.5,13,5,4000,4,64
+566,Nokia,Nokia 7,6000,5.2,16,5,6000,4,64
+568,OnePlus,OnePlus 5,8000,5.5,20,16,8000,6,64
+569,Nokia,Lenovo Vibe K5,5000,5,13,5,5000,2,16
+570,Xiaomi,Xiaomi Redmi Pro,23000,5.5,13,5,23000,3,32
+572,Xiaomi,Xiaomi Redmi Y2 (4GB/64GB),12000,5.99,12,16,12000,4,64
+573,Samsung,Samsung Galaxy S9 128GB,25000,5.8,12,8,25000,4,128
+576,Oppo,Oppo A5,10600,6.2,13,8,10600,4,64
+577,Realme,Realme 2 Pro 6GB RAM,6500,6.3,16,16,6500,6,64
+578,Vivo,Vivo V15 Pro,7999,6.59,16,25,7999,8,128
+579,Realme,Realme 2 Pro,5500,6.3,13,8,5500,6,64
+580,Motorola,Motorola Moto G6 Plus,6000,5.93,12,16,6000,3,32
+582,Oppo,Oppo A31,9000,4.5,8,5,9000,1,8
+584,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+585,Huawei,Huawei Honor 7i,11500,5.2,13,13,11500,2,16
+586,Honor,Honor View 10,11000,5.99,20,13,11000,6,128
+587,Xiaomi,Xiaomi Redmi 5,3400,5.7,12,5,3400,2,16
+588,General,General GM 5,3300,5,13,5,3300,2,16
+590,Motorola,Motorola Moto X4,7200,5.2,12,16,7200,3,32
+591,Google,Google Pixel XL 2,18000,5.5,12.3,8,18000,4,64
+592,Oppo,Oppo A31,9000,4.5,8,5,9000,1,8
+593,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+594,OnePlus,OnePlus One,5000,5.5,13,5,5000,3,64
+595,Xiaomi,Xiaomi Redmi 2,2700,4.7,8,2,2700,1,8
+597,Xiaomi,Xiaomi Mi Note Pro,10000,5.7,13,4,10000,4,64
+600,Xiaomi,Xiaomi Redmi 4A,3699,5,13,5,3699,2,16
+601,Xiaomi,Xiaomi Mi5,10000,5.15,16,4,10000,3,32
+603,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
+604,Vivo,Vivo V11 Pro,11999,6.41,12,25,11999,6,64
+605,Oppo,Oppo F9,16000,6.3,16,25,16000,4,64
+606,Xiaomi,Xiaomi Mi A2 (6GB/128GB),14500,5.99,12,20,14500,6,128
+608,Vivo,Vivo S1,6000,6.53,12,24,6000,4,64
+610,Oppo,Oppo F11 Pro,6000,6.5,16,25,6000,6,64
+611,Oppo,Oppo A7,8000,6.2,13,16,8000,3,32
+612,Realme,Realme 2 Pro 128GB,5000,6.3,16,16,5000,8,128
+613,Xiaomi,Xiaomi Redmi Note 7 Pro,9000,6.3,48,20,9000,4,64
+614,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
+615,Samsung,Samsung Galaxy S10 Plus 512GB,50545,6.4,12,12MP Primary Camera,35000,8,512
+616,Google,Google Pixel 3 XL 128GB,50600,6.3,12.2,8,22600,4,128
+617,Samsung,Samsung Galaxy J7 Nxt,5197,5.5,13,5,5197,2,16
+618,Apple,Apple iPhone X 256GB,53624,5.8,12,7,13000,3,256
+619,Oppo,Oppo A71 (2018),5434,5.2,13,5,5434,3,16
+620,Samsung,Samsung Galaxy J5 Prime,5499,5,13,5,4000,2,16
+621,Xiaomi,Xiaomi Redmi Y2,5499,5.99,12,16,5000,3,32
+622,Nokia,Lenovo Phab 2,5499,6.4,13,5,5200,3,32
+624,Apple,Apple iPhone XS Max,59633,6.5,12,7,6500,4,64
+625,Realme,Realme 1,6044,6,13,8,6044,3,32
+626,InFocus,InFocus Vision 3 Pro,6049,5.7,13,13,6049,4,64
+627,Asus,Asus Zenfone Max Pro M1,6049,5.99,13,8,6049,3,32
+630,Xiaomi,Xiaomi Redmi Note 4 (4GB/64GB),6049,5.5,13,5,5990,4,64
+631,Vivo,Vivo Y55L,6049,5.2,8,5,4999,2,16
+633,Apple,Apple iPhone XS 256GB,62345,5.8,12,7,45000,4,256
+634,Samsung,Samsung Galaxy S10 Plus 1TB,64845,6.4,12,12MP Primary Camera,17999,12,1
+635,Xiaomi,Xiaomi Redmi Note 6 Pro,6520,6.26,12,20,6520,4,64
+636,Samsung,Samsung Galaxy A5,6545,5,13,5,6545,2,16
+637,Motorola,Motorola Moto G5 Plus (4GB/32GB),6594,5.2,12,5,6594,4,32
+638,Nokia,Lenovo Phab,6599,6.98,13,5,6599,2,16
+639,Xiaomi,Xiaomi Redmi 4 (4GB/64GB),6599,5,13,5,6599,4,64
+640,Xiaomi,Xiaomi Redmi Note 5 (4GB/64GB),6599,5.99,12,5,6599,4,64
+641,Micromax,Micromax Canvas Xpress 2 E313,6710,5,13,2,1800,1,8
+642,Apple,Apple iPhone XS Max 256GB,67772,6.5,12,7,32000,4,256
+643,Motorola,Motorola G5S Plus,6930,5.5,13,8,6000,4,64
+644,Samsung,Samsung Galaxy On Nxt 64GB,7095,5.5,13,8,7095,3,64
+646,LG,LG Stylus 3,7144,5.7,13,8,7144,3,16
+647,Xiaomi,Xiaomi Redmi Note 7,7149,6.3,12,13,6500,3,32
+648,Apple,Apple iPhone XS Max 512GB,72600,6.5,12,7,6300,4,512
+649,LG,LG G4 Dual Sim,7314,5.5,16,8,7314,3,32
+650,Oppo,Oppo A83 (4GB/64GB),7529,5.7,13,8,7529,4,64
+651,Samsung,Samsung Galaxy J7 Duo,7694,5.5,13,8,7000,4,32
+652,Samsung,Samsung Galaxy J6,7694,5.6,13,8,7694,3,32
+653,Vivo,Vivo Y83 Pro,7694,6.22,13,8,7694,4,64
+655,Vivo,Vivo V9 Pro 4GB RAM,7776,6.3,13,16,7500,4,64
+656,Vivo,Vivo V5s,7864,5.5,13,20,6500,4,64
+657,Oppo,Oppo F3,7931,5.5,13,16,4500,4,64
+658,Apple,Apple iPhone 5,7974,4,8,1,3000,1,16
+659,Samsung,Samsung Galaxy J8 2018,8189,6,16,16,8189,4,64
+660,Samsung,Samsung Galaxy J7 Max,8195,5.7,13,13,7500,4,32
+661,Xiaomi,Xiaomi Redmi Note 5 Pro,8249,5.99,12,20,8249,4,64
+662,Honor,Honor 9 Lite (4GB/64GB),8249,5.65,13,13,6500,4,64
+663,Apple,Apple iPhone 5s,8249,4,8,1.2,1000,1,16
+665,Motorola,Motorola Moto G6 (4GB/64GB),8706,5.7,12,16,8706,4,64
+666,Samsung,Samsung Galaxy J6 (4GB/64GB),9069,5.6,13,8,9000,4,64
+667,Nokia,Nokia 6.1 (4GB/64GB) (2018),9721,5.5,16,8,4000,4,64
+668,Honor,Honor 8,9899,5.2,12,8,9899,4,32
+669,Oppo,Oppo F7,9907,6.23,16,25,9907,4,64
+670,Samsung,Samsung Galaxy J7 Pro,9953,5.5,13,13,8500,3,64
+671,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+672,Motorola,Motorola Moto Z2 Play,10724,5.5,12,5,10724,4,64
+673,Vivo,Vivo V9,10766,6.3,16,24,9000,4,64
+674,Oppo,Oppo F9 Pro,10945,6.3,16,25,10945,6,64
+675,Apple,Apple iPhone SE,10994,4,12,1.2,5500,2,16
+676,Xiaomi,Xiaomi F1,11549,6.18,12,20,9000,6,64
+677,Samsung,Samsung Galaxy A7 2018 128GB,11794,6,24,24,11794,6,128
+678,Apple,Apple iPhone 5c,12209,4,8,1.2,2000,1,8
+679,Apple,Apple iPhone 6 32GB,12649,4.7,8,1.2,12000,1,32
+680,Samsung,Samsung Galaxy A8 Star,13039,6.3,16,24,13000,6,64
+681,Samsung,Samsung Galaxy A6 plus (4GB/64GB) (2018),13194,6,16,24,10500,4,64
+682,Xiaomi,Xiaomi F1 128GB,13199,6.18,12,20,12000,6,128
+683,Apple,Apple iPhone SE (32GB),14024,4,12,1.2,5200,2,32
+684,Samsung,Samsung Galaxy S7,14849,5.1,12,5,9000,4,32
+686,OnePlus,OnePlus 3,15399,5.5,16,8,12000,6,64
+687,OnePlus,OnePlus 3T,15399,5.5,16,16,11000,6,64
+688,Samsung,Samsung Galaxy C9 Pro,15619,6,16,16,9800,6,64
+689,Apple,Apple iPhone 5c 16GB,16494,4,8,1.2,7000,1,16
+690,LG,LG V20,16494,5.7,16,5,7500,4,64
+691,Samsung,Samsung Galaxy Note 4,16499,5.7,16,3.7,4000,3,32
+692,Samsung,Samsung Galaxy A8 plus (2018),17044,6,16,16,17000,6,64
+693,Samsung,Samsung Galaxy A9 2018,17044,6.3,24,24,17044,6,128
+694,Apple,Apple iPhone 6,17049,4.7,8,1.2,6999,1,16
+695,Apple,Apple iPhone 6 Plus,17049,5.5,8,1.2,2700,1,16
+696,Apple,Apple iPhone 6s,17594,4.7,12,5,5500,2,16
+697,Samsung,Samsung Galaxy S8,19244,5.8,12,8,7000,4,64
+698,OnePlus,OnePlus 6,19249,6.28,16,16,3700,6,64
+699,Apple,Apple iPhone 6s 32GB,20182,4.7,12,5,3500,2,32
+701,OnePlus,OnePlus 5T (8GB/128GB),20899,6.01,20,16,5000,8,128
+702,OnePlus,OnePlus 6T,20899,6.41,16,16,14000,6,128
+703,OnePlus,OnePlus 5 (8GB/128GB),20899,5.5,20,16,20899,8,128
+705,Apple,Apple iPhone 6s Plus,21725,5.5,12,5,9500,2,16
+706,LG,LG G7 Plus ThinQ,21994,6.1,16,8,13000,6,128
+707,Samsung,Samsung Galaxy Note 5 64GB,21999,5.7,16,5,13000,4,64
+708,OnePlus,OnePlus 6 (128GB),21999,6.28,16,16,21999,8,128
+709,Samsung,Samsung Galaxy S8 Plus,22880,6.2,12,8,15000,4,64
+710,OnePlus,OnePlus 6T 8GB RAM,23099,6.41,16,16,12000,8,128
+713,Apple,Apple iPhone 6 64GB,24744,4.7,8,1.2,10000,1,64
+714,Vivo,Vivo NEX,24744,6.59,12,8,16400,8,128
+715,OnePlus,OnePlus 6 (256GB),24749,6.28,16,16,21000,8,256
+716,Samsung,Samsung Galaxy S6 Edge Plus,24952,5.7,16,5,20000,4,32
+717,OnePlus,OnePlus 6T 256GB,25299,6.41,16,16,12000,8,256
+718,Apple,Apple iPhone 7,25299,4.7,12,7,14800,2,32
+719,Apple,Apple iPhone 6 Plus 64GB,26894,5.5,8,1.2,10000,1,64
+720,Xiaomi,Xiaomi Redmi 5A,2749,5,13,5,1000,2,16
+723,Apple,Apple iPhone 6s 128GB,30217,4.7,12,5,3666,2,128
+724,Apple,Apple iPhone 7 128GB,30249,4.7,12,7,11700,2,128
+725,Apple,Apple iPhone 6s 64GB,30798,4.7,12,5,12500,2,64
+726,Apple,Apple iPhone 7 256GB,31756,4.7,12,7,27500,2,256
+727,Samsung,Samsung Galaxy S9,31845,5.8,12,8,17500,4,64
+728,Apple,Apple iPhone 7 Plus,31900,5.5,12,7,12000,3,32
+729,Apple,Apple iPhone 8,32999,4.7,12,7,18500,2,64
+730,Nokia,Nokia 2,3436,5,8,5,3436,1,8
+731,Samsung,Samsung Galaxy S8 Plus (6GB/128GB),34595,6.2,12,8,12000,6,128
+732,Samsung,Samsung Galaxy S9 plus,35695,6.2,12,8,6000,6,64
+733,Samsung,Samsung Galaxy S9 256GB,36245,5.8,12,8,14000,4,256
+734,Apple,Apple iPhone 8 Plus,36299,5.5,12,7,14999,3,64
+735,Apple,Apple iPhone 7 Plus 128GB,36599,5.5,12,7,8500,3,128
+736,Samsung,Samsung Galaxy S10,36795,6.1,12,8,15000,8,128
+737,Google,Google Pixel 3 128GB,37345,5.5,12.2,8,14500,4,128
+738,Samsung,Samsung Galaxy Note 9,37345,6.4,12,8,37345,6,128
+739,Motorola,Motorola Moto C Plus,3744,5,8,2,3744,2,16
+740,Apple,Apple iPhone 8 256GB,37949,4.7,12,7,5500,2,256
+741,Apple,Apple iPhone XR,38499,6.1,12,7,17999,3,64
+742,Apple,Apple iPhone 6s Plus 128GB,38500,5.5,12,5,5500,2,128
+743,Apple,Apple iPhone 7 Plus 256GB,38989,5.5,12,7,13000,3,256
+744,Vivo,Vivo Y21L 4G,3899,4.5,5,2,3000,1,16
+745,Gionee,Gionee P7 Max,3931,5.5,13,5,3931,3,32
+746,Nokia,Nokia 3,4026,5,8,8,2500,2,16
+747,Apple,Apple iPhone XR 128GB,41249,6.1,12,7,14000,3,128
+748,Samsung,Samsung Galaxy S9+ (6GB/256GB),41800,6.2,12,8,27000,6,256
+749,Xiaomi,Xiaomi Mi4,4394,5,13,8,3999,3,16
+750,Apple,Apple iPhone 6s Plus 64GB,43999,5.5,12,5,4000,2,64
+751,Apple,Apple iPhone 8 Plus 256GB,43999,5.5,12,7,14999,3,256
+752,Nokia,Lenovo K3 Note,4509,5.5,13,5,4000,2,16
+753,Google,Google Pixel 2 XL 128GB,45100,6,12.2,8,5000,4,128
+754,Samsung,Samsung Galaxy S10 512GB,45100,6.1,12,12MP Primary Camera,45100,8,512
+755,Apple,Apple iPhone X,45541,5.8,12,7,16000,3,64
+756,Google,Google Pixel 3 XL,45650,6.3,12.2,8,33000,4,64
+757,Oppo,Oppo A37,4653,5,8,5,4000,2,16
+758,Samsung,Samsung Galaxy Note 9 (8GB/512GB),46695,6.4,12,8,40000,8,512
+759,Apple,Apple iPhone XR 256GB,46749,6.1,12,7,17999,3,256
+760,HTC,HTC Desire 326G,4702,4.5,8,2,4702,1,8
+761,Panasonic,Panasonic Eluga Ray X,4949,5.5,13,5,4949,3,32
+762,Xiaomi,Xiaomi Redmi Note 4 (3GB/32GB),4949,5.5,13,5,2500,3,32
+764,HTC,HTC One M9,8999,5,20,4,8999,3,32
+765,Micromax,Micromax Canvas 5,4000,5.2,13,5,4000,3,16
+766,HTC,HTC One M9,8999,5,20,4,8999,3,32
+769,Oppo,Oppo R9 Plus 128GB,7600,6,16,16,7600,4,128
+771,OnePlus,OnePlus 2 64 GB,4000,5.5,13,5,4000,4,64
+773,Nokia,Nokia 7,6000,5.2,16,5,6000,4,64
+775,OnePlus,OnePlus 5,8000,5.5,20,16,8000,6,64
+776,Nokia,Lenovo Vibe K5,5000,5,13,5,5000,2,16
+777,Xiaomi,Xiaomi Redmi Pro,23000,5.5,13,5,23000,3,32
+779,Xiaomi,Xiaomi Redmi Y2 (4GB/64GB),12000,5.99,12,16,12000,4,64
+780,Samsung,Samsung Galaxy S9 128GB,25000,5.8,12,8,25000,4,128
+783,Oppo,Oppo A5,10600,6.2,13,8,10600,4,64
+784,Realme,Realme 2 Pro 6GB RAM,6500,6.3,16,16,6500,6,64
+785,Vivo,Vivo V15 Pro,7999,6.59,16,25,7999,8,128
+786,Realme,Realme 2 Pro,5500,6.3,13,8,5500,6,64
+787,Motorola,Motorola Moto G6 Plus,6000,5.93,12,16,6000,3,32
+789,Motorola,Motorola Moto G 2nd Gen,1400,5,8,2,1400,1,16
+791,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+792,OnePlus,OnePlus One,5000,5.5,13,5,5000,3,64
+793,Xiaomi,Xiaomi Redmi 2,2700,4.7,8,2,2700,1,8
+795,Xiaomi,Xiaomi Mi Note Pro,10000,5.7,13,4,10000,4,64
+797,Xiaomi,Xiaomi Redmi 4A,3699,5,13,5,3699,2,16
+798,Motorola,Motorola Moto G 2nd Gen,1400,5,8,2,1400,1,16
+801,Huawei,Huawei Honor 7i,11500,5.2,13,13,11500,2,16
+802,Honor,Honor View 10,11000,5.99,20,13,11000,6,128
+803,Xiaomi,Xiaomi Redmi 5,3400,5.7,12,5,3400,2,16
+804,General,General GM 5,3300,5,13,5,3300,2,16
+806,Motorola,Motorola Moto X4,7200,5.2,12,16,7200,3,32
+807,Google,Google Pixel XL 2,18000,5.5,12.3,8,18000,4,64
+808,Xiaomi,Xiaomi Mi5,10000,5.15,16,4,10000,3,32
+810,Vivo,Vivo V11 Pro,11999,6.41,12,25,11999,6,64
+811,Oppo,Oppo F9,16000,6.3,16,25,16000,4,64
+812,Xiaomi,Xiaomi Mi A2 (6GB/128GB),14500,5.99,12,20,14500,6,128
+814,Vivo,Vivo S1,6000,6.53,12,24,6000,4,64
+816,Xiaomi,Xiaomi Mi 8 Pro,14500,6.21,12,20,14500,6,128
+817,Oppo,Oppo F11 Pro,6000,6.5,16,25,6000,6,64
+818,Oppo,Oppo A7,8000,6.2,13,16,8000,3,32
+819,Realme,Realme 2 Pro 128GB,5000,6.3,16,16,5000,8,128
+820,Xiaomi,Xiaomi Redmi Note 7 Pro,9000,6.3,48,20,9000,4,64
+821,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
+822,Samsung,Samsung Galaxy S10 Plus 512GB,50545,6.4,12,12MP Primary Camera,35000,8,512
+823,Google,Google Pixel 3 XL 128GB,50600,6.3,12.2,8,22600,4,128
+824,Samsung,Samsung Galaxy J7 Nxt,5197,5.5,13,5,5197,2,16
+825,Apple,Apple iPhone X 256GB,53624,5.8,12,7,13000,3,256
+826,Oppo,Oppo A71 (2018),5434,5.2,13,5,5434,3,16
+827,Samsung,Samsung Galaxy J5 Prime,5499,5,13,5,4000,2,16
+828,Xiaomi,Xiaomi Redmi Y2,5499,5.99,12,16,5000,3,32
+829,Nokia,Lenovo Phab 2,5499,6.4,13,5,5200,3,32
+831,Apple,Apple iPhone XS Max,59633,6.5,12,7,6500,4,64
+832,Realme,Realme 1,6044,6,13,8,6044,3,32
+833,InFocus,InFocus Vision 3 Pro,6049,5.7,13,13,6049,4,64
+836,Xiaomi,Xiaomi Redmi Note 4 (4GB/64GB),6049,5.5,13,5,5990,4,64
+837,Vivo,Vivo Y55L,6049,5.2,8,5,4999,2,16
+839,Apple,Apple iPhone XS 256GB,62345,5.8,12,7,45000,4,256
+840,Samsung,Samsung Galaxy S10 Plus 1TB,64845,6.4,12,12MP Primary Camera,17999,12,1
+841,Xiaomi,Xiaomi Redmi Note 6 Pro,6520,6.26,12,20,6520,4,64
+842,Samsung,Samsung Galaxy A5,6545,5,13,5,6545,2,16
+843,Motorola,Motorola Moto G5 Plus (4GB/32GB),6594,5.2,12,5,6594,4,32
+844,Nokia,Lenovo Phab,6599,6.98,13,5,6599,2,16
+845,Xiaomi,Xiaomi Redmi 4 (4GB/64GB),6599,5,13,5,6599,4,64
+846,Xiaomi,Xiaomi Redmi Note 5 (4GB/64GB),6599,5.99,12,5,6599,4,64
+847,Micromax,Micromax Canvas Xpress 2 E313,6710,5,13,2,1800,1,8
+848,Apple,Apple iPhone XS Max 256GB,67772,6.5,12,7,32000,4,256
+849,Motorola,Motorola G5S Plus,6930,5.5,13,8,6000,4,64
+850,Samsung,Samsung Galaxy On Nxt 64GB,7095,5.5,13,8,7095,3,64
+852,LG,LG Stylus 3,7144,5.7,13,8,7144,3,16
+853,Xiaomi,Xiaomi Redmi Note 7,7149,6.3,12,13,6500,3,32
+854,Apple,Apple iPhone XS Max 512GB,72600,6.5,12,7,6300,4,512
+855,LG,LG G4 Dual Sim,7314,5.5,16,8,7314,3,32
+856,Oppo,Oppo A83 (4GB/64GB),7529,5.7,13,8,7529,4,64
+857,Samsung,Samsung Galaxy J7 Duo,7694,5.5,13,8,7000,4,32
+858,Samsung,Samsung Galaxy J6,7694,5.6,13,8,7694,3,32
+859,Vivo,Vivo Y83 Pro,7694,6.22,13,8,7694,4,64
+861,Vivo,Vivo V9 Pro 4GB RAM,7776,6.3,13,16,7500,4,64
+862,Vivo,Vivo V5s,7864,5.5,13,20,6500,4,64
+863,Oppo,Oppo F3,7931,5.5,13,16,4500,4,64
+864,Apple,Apple iPhone 5,7974,4,8,1,3000,1,16
+865,Samsung,Samsung Galaxy J8 2018,8189,6,16,16,8189,4,64
+866,Samsung,Samsung Galaxy J7 Max,8195,5.7,13,13,7500,4,32
+867,Xiaomi,Xiaomi Redmi Note 5 Pro,8249,5.99,12,20,8249,4,64
+868,Honor,Honor 9 Lite (4GB/64GB),8249,5.65,13,13,6500,4,64
+869,Apple,Apple iPhone 5s,8249,4,8,1.2,1000,1,16
+871,Motorola,Motorola Moto G6 (4GB/64GB),8706,5.7,12,16,8706,4,64
+872,Samsung,Samsung Galaxy J6 (4GB/64GB),9069,5.6,13,8,9000,4,64
+873,Nokia,Nokia 6.1 (4GB/64GB) (2018),9721,5.5,16,8,4000,4,64
+874,Honor,Honor 8,9899,5.2,12,8,9899,4,32
+875,Oppo,Oppo F7,9907,6.23,16,25,9907,4,64
+876,Samsung,Samsung Galaxy J7 Pro,9953,5.5,13,13,8500,3,64
+877,Oppo,Oppo F5,10040,6,16,20,10040,4,32
+878,Motorola,Motorola Moto Z2 Play,10724,5.5,12,5,10724,4,64
+879,Vivo,Vivo V9,10766,6.3,16,24,9000,4,64
+880,Oppo,Oppo F9 Pro,10945,6.3,16,25,10945,6,64
+881,Apple,Apple iPhone SE,10994,4,12,1.2,5500,2,16
+882,Xiaomi,Xiaomi F1,11549,6.18,12,20,9000,6,64
+883,Samsung,Samsung Galaxy A7 2018 128GB,11794,6,24,24,11794,6,128
+884,Apple,Apple iPhone 5c,12209,4,8,1.2,2000,1,8
+885,Apple,Apple iPhone 6 32GB,12649,4.7,8,1.2,12000,1,32
+886,Samsung,Samsung Galaxy A8 Star,13039,6.3,16,24,13000,6,64
+887,Samsung,Samsung Galaxy A6 plus (4GB/64GB) (2018),13194,6,16,24,10500,4,64
+888,Xiaomi,Xiaomi F1 128GB,13199,6.18,12,20,12000,6,128
+889,Apple,Apple iPhone SE (32GB),14024,4,12,1.2,5200,2,32
+890,Samsung,Samsung Galaxy S7,14849,5.1,12,5,9000,4,32
+892,OnePlus,OnePlus 3,15399,5.5,16,8,12000,6,64
+893,OnePlus,OnePlus 3T,15399,5.5,16,16,11000,6,64
+894,Samsung,Samsung Galaxy C9 Pro,15619,6,16,16,9800,6,64
+895,Apple,Apple iPhone 5c 16GB,16494,4,8,1.2,7000,1,16
+896,LG,LG V20,16494,5.7,16,5,7500,4,64
+897,Samsung,Samsung Galaxy Note 4,16499,5.7,16,3.7,4000,3,32
+898,Samsung,Samsung Galaxy A8 plus (2018),17044,6,16,16,17000,6,64
+899,Samsung,Samsung Galaxy A9 2018,17044,6.3,24,24,17044,6,128
+900,Apple,Apple iPhone 6,17049,4.7,8,1.2,6999,1,16
+901,Apple,Apple iPhone 6 Plus,17049,5.5,8,1.2,2700,1,16
+902,Apple,Apple iPhone 6s,17594,4.7,12,5,5500,2,16
+903,Samsung,Samsung Galaxy S8,19244,5.8,12,8,7000,4,64
+904,OnePlus,OnePlus 6,19249,6.28,16,16,3700,6,64
+905,Apple,Apple iPhone 6s 32GB,20182,4.7,12,5,3500,2,32
+907,OnePlus,OnePlus 5T (8GB/128GB),20899,6.01,20,16,5000,8,128
+908,OnePlus,OnePlus 6T,20899,6.41,16,16,14000,6,128
+909,OnePlus,OnePlus 5 (8GB/128GB),20899,5.5,20,16,20899,8,128
+911,Apple,Apple iPhone 6s Plus,21725,5.5,12,5,9500,2,16
+912,LG,LG G7 Plus ThinQ,21994,6.1,16,8,13000,6,128
+913,Samsung,Samsung Galaxy Note 5 64GB,21999,5.7,16,5,13000,4,64
+914,OnePlus,OnePlus 6 (128GB),21999,6.28,16,16,21999,8,128
+915,Samsung,Samsung Galaxy S8 Plus,22880,6.2,12,8,15000,4,64
+916,OnePlus,OnePlus 6T 8GB RAM,23099,6.41,16,16,12000,8,128
+919,Apple,Apple iPhone 6 64GB,24744,4.7,8,1.2,10000,1,64
+920,Vivo,Vivo NEX,24744,6.59,12,8,16400,8,128
+921,OnePlus,OnePlus 6 (256GB),24749,6.28,16,16,21000,8,256
+922,Samsung,Samsung Galaxy S6 Edge Plus,24952,5.7,16,5,20000,4,32
+923,OnePlus,OnePlus 6T 256GB,25299,6.41,16,16,12000,8,256
+924,Apple,Apple iPhone 7,25299,4.7,12,7,14800,2,32
+925,Apple,Apple iPhone 6 Plus 64GB,26894,5.5,8,1.2,10000,1,64
+926,Xiaomi,Xiaomi Redmi 5A,2749,5,13,5,1000,2,16
+929,Apple,Apple iPhone 6s 128GB,30217,4.7,12,5,3666,2,128
+930,Apple,Apple iPhone 7 128GB,30249,4.7,12,7,11700,2,128
+931,Apple,Apple iPhone 6s 64GB,30798,4.7,12,5,12500,2,64
+932,Apple,Apple iPhone 7 256GB,31756,4.7,12,7,27500,2,256
+933,Samsung,Samsung Galaxy S9,31845,5.8,12,8,17500,4,64
+934,Apple,Apple iPhone 7 Plus,31900,5.5,12,7,12000,3,32
+935,Apple,Apple iPhone 8,32999,4.7,12,7,18500,2,64
+936,Nokia,Nokia 2,3436,5,8,5,3436,1,8
+937,Samsung,Samsung Galaxy S8 Plus (6GB/128GB),34595,6.2,12,8,12000,6,128
+938,Samsung,Samsung Galaxy S9 plus,35695,6.2,12,8,6000,6,64
+939,Samsung,Samsung Galaxy S9 256GB,36245,5.8,12,8,14000,4,256
+940,Apple,Apple iPhone 8 Plus,36299,5.5,12,7,14999,3,64
+941,Apple,Apple iPhone 7 Plus 128GB,36599,5.5,12,7,8500,3,128
+942,Samsung,Samsung Galaxy S10,36795,6.1,12,8,15000,8,128
+943,Google,Google Pixel 3 128GB,37345,5.5,12.2,8,14500,4,128
+944,Samsung,Samsung Galaxy Note 9,37345,6.4,12,8,37345,6,128
+945,Motorola,Motorola Moto C Plus,3744,5,8,2,3744,2,16
+946,Apple,Apple iPhone 8 256GB,37949,4.7,12,7,5500,2,256
+947,Apple,Apple iPhone XR,38499,6.1,12,7,17999,3,64
+948,Apple,Apple iPhone 7 Plus 256GB,38989,5.5,12,7,13000,3,256
+949,Vivo,Vivo Y21L 4G,3899,4.5,5,2,3000,1,16
+950,Gionee,Gionee P7 Max,3931,5.5,13,5,3931,3,32
+951,Nokia,Nokia 3,4026,5,8,8,2500,2,16
+952,Apple,Apple iPhone XR 128GB,41249,6.1,12,7,14000,3,128
+953,Samsung,Samsung Galaxy S9+ (6GB/256GB),41800,6.2,12,8,27000,6,256
+954,Xiaomi,Xiaomi Mi4,4394,5,13,8,3999,3,16
+955,Apple,Apple iPhone 6s Plus 64GB,43999,5.5,12,5,4000,2,64
+956,Apple,Apple iPhone 8 Plus 256GB,43999,5.5,12,7,14999,3,256
+957,Nokia,Lenovo K3 Note,4509,5.5,13,5,4000,2,16
+958,Google,Google Pixel 2 XL 128GB,45100,6,12.2,8,5000,4,128
+959,Samsung,Samsung Galaxy S10 512GB,45100,6.1,12,12MP Primary Camera,45100,8,512
+960,Apple,Apple iPhone X,45541,5.8,12,7,16000,3,64
+961,Google,Google Pixel 3 XL,45650,6.3,12.2,8,33000,4,64
+962,Oppo,Oppo A37,4653,5,8,5,4000,2,16
+963,Samsung,Samsung Galaxy Note 9 (8GB/512GB),46695,6.4,12,8,40000,8,512
+964,Apple,Apple iPhone XR 256GB,46749,6.1,12,7,17999,3,256
+965,HTC,HTC Desire 326G,4702,4.5,8,2,4702,1,8
+966,Panasonic,Panasonic Eluga Ray X,4949,5.5,13,5,4949,3,32
+967,Xiaomi,Xiaomi Redmi Note 4 (3GB/32GB),4949,5.5,13,5,2500,3,32
+968,Samsung,Samsung Galaxy Note N7000 16GB,10000,5.3,8,2,10000,1,16
+970,Micromax,Micromax Canvas 5,4000,5.2,13,5,4000,3,16
+971,HTC,HTC One M9,8999,5,20,4,8999,3,32
+974,Oppo,Oppo R9 Plus 128GB,7600,6,16,16,7600,4,128
+976,OnePlus,OnePlus 2 64 GB,4000,5.5,13,5,4000,4,64
+978,Nokia,Nokia 7,6000,5.2,16,5,6000,4,64
+980,OnePlus,OnePlus 5,8000,5.5,20,16,8000,6,64
+981,Nokia,Lenovo Vibe K5,5000,5,13,5,5000,2,16
+982,Xiaomi,Xiaomi Redmi Pro,23000,5.5,13,5,23000,3,32
+984,Xiaomi,Xiaomi Redmi Y2 (4GB/64GB),12000,5.99,12,16,12000,4,64
+985,Samsung,Samsung Galaxy S9 128GB,25000,5.8,12,8,25000,4,128
+988,Oppo,Oppo A5,10600,6.2,13,8,10600,4,64
+989,Realme,Realme 2 Pro 6GB RAM,6500,6.3,16,16,6500,6,64
+990,Vivo,Vivo V15 Pro,7999,6.59,16,25,7999,8,128
+991,Realme,Realme 2 Pro,5500,6.3,13,8,5500,6,64
+992,Motorola,Motorola Moto G6 Plus,6000,5.93,12,16,6000,3,32
+994,Motorola,Motorola Moto G 2nd Gen,1400,5,8,2,1400,1,16
+997,Huawei,Huawei Honor 7i,11500,5.2,13,13,11500,2,16
+998,Honor,Honor View 10,11000,5.99,20,13,11000,6,128
+999,Xiaomi,Xiaomi Redmi 5,3400,5.7,12,5,3400,2,16
+1000,General,General GM 5,3300,5,13,5,3300,2,16
+1002,Motorola,Motorola Moto X4,7200,5.2,12,16,7200,3,32
+1003,Google,Google Pixel XL 2,18000,5.5,12.3,8,18000,4,64
+1004,Oppo,Oppo A31,9000,4.5,8,5,9000,1,8
+1005,Xiaomi,Xiaomi Redmi Note 4G,1200,5.5,13,5,1200,2,8
+1006,OnePlus,OnePlus One,5000,5.5,13,5,5000,3,64
+1007,Xiaomi,Xiaomi Redmi 2,2700,4.7,8,2,2700,1,8
+1009,Xiaomi,Xiaomi Mi Note Pro,10000,5.7,13,4,10000,4,64
+1012,Xiaomi,Xiaomi Redmi 4A,3699,5,13,5,3699,2,16
+1013,Xiaomi,Xiaomi Mi5,10000,5.15,16,4,10000,3,32
+1015,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
+1016,Vivo,Vivo V11 Pro,11999,6.41,12,25,11999,6,64
+1017,Oppo,Oppo F9,16000,6.3,16,25,16000,4,64
+1018,Xiaomi,Xiaomi Mi A2 (6GB/128GB),14500,5.99,12,20,14500,6,128
+1020,Vivo,Vivo S1,6000,6.53,12,24,6000,4,64
+1022,Oppo,Oppo F11 Pro,6000,6.5,16,25,6000,6,64
+1023,Oppo,Oppo A7,8000,6.2,13,16,8000,3,32
+1024,Realme,Realme 2 Pro 128GB,5000,6.3,16,16,5000,8,128
+1025,Xiaomi,Xiaomi Redmi Note 7 Pro,9000,6.3,48,20,9000,4,64
+1026,Oppo,Oppo A1,7200,5.7,13,8,7200,4,64
