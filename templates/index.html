@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <title>Mobile World</title>
+  </head>
+  <body style="background-image: url('https://motorolaus.vtexassets.com/assets/vtex.file-manager-graphql/images/mot-direct-homepage-moto-G-fast-d___c0965f7cf8df47d4d164eb5328b7c33a.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;">
+  <nav class="navbar navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">Re-Selling Price Predictor</a>
+  </nav>
+  <h1 style="margin-top:5%;margin-left:10%;color:red;font-size:50px">Bored up with your old phone?</h1>
+  <h2 style="margin-left:2%;color:white;font-size:30px">Don't worry! we will tell you how much re-sell price you can expect from it.</h2><br><br>
+  <h3 style="margin-left:2%;color:white;font-size:30px">You just need to give us some details of your old phone</h3>
+
+
+  <div class="col-sm-6" style="margin-top:10%;margin-left:7%">
+      <form class="form" action="/predict" method="POST" style="text-align:center;font-weight:bold;font-size:20px;color:#f2d40f">
+          <label class="model_name">Mobile Model Name:</label><br>
+          <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" name="model_name" placeholder="Model..."><br>
+          <label class="brand">Enter the BRAND of your Mobile:</label><br>
+            <select name="brand" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+                <option value="Apple">Apple</option>
+                <option value="Samsung">Samsung</option>
+                <option value="Xiaomi">Xiaomi</option>
+                <option value="Oppo">Oppo</option>
+                <option value="OnePlus">OnePlus</option>
+                <option value="Vivo">Vivo</option>
+                <option value="Nokia">Nokia</option>
+                <option value="Motorola">Motorola</option>
+                <option value="Google">Google</option>
+                <option value="Realme">Realme</option>
+                <option value="LG">LG</option>
+                <option value="Honor">Honor</option>
+                <option value="HTC">HTC</option>
+                <option value="Micromax">Micromax</option>
+                <option value="General">General</option>
+                <option value="Panasonic">Panasonic</option>
+                <option value="Huawei">Huawei</option>
+                <option value="InFocus">InFocus</option>
+                <option value="Gionee">Gionee</option>
+                <option value="Asus">Asus</option>
+            </select>
+        <br>
+        <label class="ram">Enter the RAM of your Mobile:</label><br>
+            <select name="ram" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+                <option value="1">1 GB</option>
+                <option value="2">2 GB</option>
+                <option value="3">3 GB</option>
+                <option value="4">4 GB</option>
+                <option value="6">6 GB</option>
+                <option value="8">8 GB</option>
+                <option value="12">12 GB</option>
+            </select>
+        <br>
+        <label class="rom">Enter the ROM of your Mobile:</label><br>
+            <select name="rom" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+                <option value="1">1 GB</option>
+                <option value="8">8 GB</option>
+                <option value="16">16 GB</option>
+                <option value="32">32 GB</option>
+                <option value="64">64 GB</option>
+                <option value="128">128 GB</option>
+                <option value="512">512 GB</option>
+            </select>
+          <br>
+        <label class="Primary_cam">Enter the Primary Camera details :</label><br>
+        <input type="text" name='Primary_cam' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="... mega pixel" value="" required=""><br>
+          <label class="screen">Enter the Screen Size :</label><br>
+          <input type="text" name='screen' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="size..." value="" required=""><br>
+        <label class="front_cam">Enter the Front Camera details :</label><br>
+        <input type="text" name='front_cam' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="... mega pixel" value="" required=""><br>
+        <label class="processor">Enter the name of your mobile Processor :</label><br>
+        <input type="text" name='processor' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="processor..." value="" required=""><br>
+        <br>
+          <button class="btn btn-primary btn-lg "  type="submit">Predict</button>
+      </form>
+<br><br><br><br><br>
+      {% if label==1 %}
+        <div class="content" style="text-align:center">
+            <h2 style="color:red;font-size:30px;font-weight:bold">Based on Current market</h2><br>
+            <h3 style="color:red;font-size:25px;font-weight:bold">You can try selling your Old mobile at Rs. {{pred}}</h3>
+        </div>
+      {% elif label==0 %}
+        <div class="content">
+            <h3 style="color:red;font-size:40px;font-weight:bold">Please provide valid Informations</h3>
+        </div>
+      {% endif %}
+  </div>
+
+<br><br>
+  <footer id="footer" style="text-align:center;padding:2%;margin-top:20%">
+
+    <strong style="color:white">© Copyright 2020</strong>
+      <span class="grey" style="color:white">|</span>
+      <span style="color:white">Tuhin Mukherjee</span>
+
+
+  </footer>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
