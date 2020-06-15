@@ -1,0 +1,143 @@
+,processor,performance,cost
+0,Apple A13 Bionic,Super High,1500
+1,Qualcomm Snapdragon 865,Super High,1500
+2,Apple A12 Bionic,Super High,1500
+3,HiSilicon Kirin 990,Super High,1500
+4,Samsung Exynos 990,Super High,1500
+5,Qualcomm Snapdragon 855 Plus,Super High,1500
+6,Qualcomm Snapdragon 855,Super High,1500
+7,Samsung Exynos 9825,Super High,1500
+8,Samsung Exynos 9820,Super High,1500
+9,Apple A11 Bionic,Super High,1500
+10,HiSilicon Kirin 980,Super High,1500
+11,Samsung Exynos 9810,Super High,1500
+12,Qualcomm Snapdragon 845,Super High,1500
+13,Qualcomm Snapdragon 765G,Super High,1500
+14,HiSilicon Kirin 810,Super High,1500
+15,Qualcomm Snapdragon 730G,Super High,1500
+16,Qualcomm Snapdragon 720G,Super High,1500
+17,MediaTek Helio G90T,Super High,1500
+18,Qualcomm Snapdragon 730,Super High,1500
+19,MediaTek Helio P95,High,1000
+20,MediaTek Helio P90,High,1000
+21,HiSilicon Kirin 970,High,1000
+22,HiSilicon Kirin 960,High,1000
+23,Qualcomm Snapdragon 675,High,1000
+24,Samsung Exynos 8895,High,1000
+25,Qualcomm Snapdragon 835,High,1000
+26,Qualcomm Snapdragon 712,High,1000
+27,MediaTek Helio G80,High,1000
+28,MediaTek Helio G70,High,1000
+29,Samsung Exynos 8890,High,1000
+30,Samsung Exynos 9611,High,1000
+31,Samsung Exynos 9610,High,1000
+32,HiSilicon Kirin 955,High,1000
+33,HiSilicon Kirin 950,High,1000
+34,Samsung Exynos 9609,High,1000
+35,Apple A10 Fusion,High,1000
+36,MediaTek Helio P65,High,1000
+37,Qualcomm Snapdragon 710,High,1000
+38,Qualcomm Snapdragon 670,High,1000
+39,Qualcomm Snapdragon 665,High,1000
+40,Qualcomm Snapdragon 660,High,1000
+41,Hisilicon Kirin 710F,High,1000
+42,Hisilicon Kirin 710,High,1000
+43,MediaTek Helio P70,High,1000
+44,Qualcomm Snapdragon 821,High,1000
+45,Qualcomm Snapdragon 820,High,1000
+46,Samsung Exynos 7885,Moderate,500
+47,Mediatek Helio P60,Moderate,500
+48,Samsung Exynos 7420,Moderate,500
+49,Apple A9,Moderate,500
+50,Qualcomm Snapdragon 653,Moderate,500
+51,MediaTek Helio X23,Moderate,500
+52,Qualcomm Snapdragon 652,Moderate,500
+53,Qualcomm Snapdragon 650,Moderate,500
+54,Mediatek Helio X20,Moderate,500
+55,Qualcomm Snapdragon 636,Moderate,500
+56,Samsung Exynos 7904,Moderate,500
+57,Qualcomm Snapdragon 632,Moderate,500
+58,Mediatek Helio P35,Moderate,500
+59,Mediatek Helio P25,Moderate,500
+60,Qualcomm Snapdragon 810,Moderate,500
+61,Apple A8,Moderate,500
+62,Qualcomm Snapdragon 808,Moderate,500
+63,Qualcomm Snapdragon 805,Moderate,500
+64,Intel Atom Z3580,Moderate,500
+65,Qualcomm Snapdragon 630,Moderate,500
+66,Qualcomm Snapdragon 626,Moderate,500
+67,Qualcomm Snapdragon 625,Moderate,500
+68,Mediatek Helio P23,Moderate,500
+69,Mediatek Helio P22,Moderate,500
+70,Mediatek Helio P20,Basic,300
+71,Qualcomm Snapdragon 801,Basic,300
+72,Samsung Exynos 5430,Basic,300
+73,Mediatek MT6595,Basic,300
+74,HiSilicon Kirin 925,Basic,300
+75,Qualcomm Snapdragon 439,Basic,300
+76,Qualcomm Snapdragon 800,Basic,300
+77,Samsung Exynos 5420,Basic,300
+78,HiSilicon Kirin 920,Basic,300
+79,Samsung Exynos 7880,Basic,300
+80,HiSilicon Kirin 935,Basic,300
+81,HiSilicon Kirin 659,Basic,300
+82,Samsung Exynos 7884B,Basic,300
+83,Mediatek Helio X10,Basic,300
+84,Samsung Exynos 7870,Basic,300
+85,HiSilicon Kirin 655,Basic,300
+86,HiSilicon Kirin 650,Basic,300
+87,Mediatek Helio P10,Basic,300
+88,Apple A7,Basic,300
+89,Qualcomm Snapdragon 450,Basic,300
+90,Qualcomm Snapdragon 429,Basic,300
+91,Mediatek Helio A22,Basic,300
+92,Intel Atom Z3560,Basic,300
+93,Samsung Exynos 5260,Basic,300
+94,Mediatek MT6752,Basic,300
+95,Samsung Exynos 7580,Basic,300
+96,Qualcomm Snapdragon 617,Basic,300
+97,Qualcomm Snapdragon 616,Basic,300
+98,Qualcomm Snapdragon 615,Basic,300
+99,Mediatek MT6753,Basic,300
+100,Mediatek MT6750,Basic,300
+101,Mediatek MT6592,Basic,300
+102,Qualcomm Snapdragon 600,Basic,300
+103,HiSilicon Kirin 910T,Basic,300
+104,Qualcomm Snapdragon 435,Basic,300
+105,Qualcomm Snapdragon 430,Basic,300
+106,Qualcomm Snapdragon 425,Basic,300
+107,Qualcomm Snapdragon 415,Basic,300
+108,Mediatek MT6739,Basic,300
+109,Mediatek MT6732,Basic,300
+110,Mediatek MT6735,Basic,300
+111,Mediatek MT8735,Basic,300
+112,Mediatek MT6737,Basic,300
+113,Samsung Exynos 7570,Basic,300
+114,Qualcomm Snapdragon 410,Basic,300
+115,HiSilicon Kirin 620,Basic,300
+116,Qualcomm Snapdragon 400,Basic,300
+117,Qualcomm Snapdragon S4 Pro,Basic,300
+118,Intel Atom Z2560,Basic,300
+119,Apple A6,Basic,300
+120,NVIDIA Tegra 3,Basic,300
+121,Spreadtrum SC9832,Basic,300
+122,Spreadtrum SC9830,Basic,300
+123,Samsung Exynos 3475,Basic,300
+124,Mediatek MT6582,Basic,300
+125,Mediatek MT6580M,Basic,300
+126,Spreadtrum SC7731,Basic,300
+127,Qualcomm Snapdragon 212,Basic,300
+128,Mediatek MT6589,Basic,300
+129,Qualcomm Snapdragon 210,Basic,300
+130,Qualcomm Snapdragon 200,Basic,300
+131,Marvell PXA1088,Basic,300
+132,Qualcomm 205,Basic,300
+133,Qualcomm Snapdragon S4 Plus,Basic,300
+134,Samsung Exynos 4212 1.5 GHz,Basic,300
+135,Qualcomm Snapdragon S4 Play,Basic,300
+136,Texas Instruments OMAP 4460,Basic,300
+137,MediaTek MT6572,Basic,300
+138,Spreadtrum SC8830,Basic,300
+139,MediaTek MT6577,Basic,300
+140,ARM Cortex A8 1.2 GHz,Basic,300
+141,Qualcomm Snapdragon S1,Basic,300
