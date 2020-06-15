@@ -24,8 +24,6 @@
 
   <div class="col-sm-6" style="margin-top:10%;margin-left:7%">
       <form class="form" action="/predict" method="POST" style="text-align:center;font-weight:bold;font-size:20px;color:#f2d40f">
-          <label class="model_name">Mobile Model Name:</label><br>
-          <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" name="model_name" placeholder="Model..."><br>
           <label class="brand">Enter the BRAND of your Mobile:</label><br>
             <select name="brand" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
                 <option value="Apple">Apple</option>
@@ -74,12 +72,16 @@
           <br>
         <label class="Primary_cam">Enter the Primary Camera details :</label><br>
         <input type="text" name='Primary_cam' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="... mega pixel" value="" required=""><br>
-          <label class="screen">Enter the Screen Size :</label><br>
-          <input type="text" name='screen' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="size..." value="" required=""><br>
         <label class="front_cam">Enter the Front Camera details :</label><br>
         <input type="text" name='front_cam' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="... mega pixel" value="" required=""><br>
+          <label class="screen">Enter the Screen Size :</label><br>
+          <input type="text" name='screen' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="size..." value="" required=""><br>
         <label class="processor">Enter the name of your mobile Processor :</label><br>
-        <input type="text" name='processor' class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" placeholder="processor..." value="" required=""><br>
+          <select name="processor" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
+             {% for i in range(142) %}
+                <option value="{{ df['cost'].iloc[i] }}">{{ df['processor'].iloc[i] }}</option>
+              {% endfor %}
+          </select>
         <br>
           <button class="btn btn-primary btn-lg "  type="submit">Predict</button>
       </form>
@@ -87,7 +89,8 @@
       {% if label==1 %}
         <div class="content" style="text-align:center">
             <h2 style="color:red;font-size:30px;font-weight:bold">Based on Current market</h2><br>
-            <h3 style="color:red;font-size:25px;font-weight:bold">You can try selling your Old mobile at Rs. {{pred}}</h3>
+            <h3 style="color:red;font-size:25px;font-weight:bold">You can try selling your Old mobile at Rs. {{pred}}</h3><br>
+            <h2 style="color:red;font-size:25px;font-weight:bold"> Considering it is not too old and is in good condition</h2>
         </div>
       {% elif label==0 %}
         <div class="content">

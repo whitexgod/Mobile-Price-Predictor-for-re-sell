@@ -4,13 +4,14 @@ import numpy as np
 import pickle
 
 clf=pickle.load(open('model86%.pkl','rb'))
+df = pickle.load(open('processor.pkl', 'rb'))
 
 app=Flask(__name__)
 
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', df=df)
 
 
 @app.route('/predict', methods=['POST'])
@@ -24,6 +25,7 @@ def predict():
         screen=request.form.get('screen')
         Primary_cam=request.form.get('Primary_cam')
         front_cam=request.form.get('front_cam')
+        processor_cost=request.form.get('processor')
         screen=screen.lower().strip('inch')
         Primary_cam=Primary_cam.lower().strip('megapixel')
         front_cam=front_cam.lower().strip('megapixel')
@@ -43,9 +45,11 @@ def predict():
         new[F.columns.values] = F[F.columns.values]
         new = new.replace(np.nan, 0)
         x = new.iloc[:, :].values
-        pred=round(round(clf.predict(x)[0],2)/2)
+        p1=round(clf.predict(x)[0],2)
+        p2=round(clf.predict(x)[0],2)/2.5
+        pred=round(p1-p2)+int(processor_cost)
 
-        return render_template('index.html', pred=pred, label=1)
+        return render_template('index.html', pred=pred, df=df, label=1)
 
     except:
 
